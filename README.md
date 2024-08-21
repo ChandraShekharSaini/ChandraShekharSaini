@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding gif" width="350px" height="200px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img align="right" alt="coding gif" width="200px" height="200px" src="https://github.com/ChandraShekharSaini/ChandraShekharSaini/blob/main/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
 
 
 
