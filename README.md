@@ -61,8 +61,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ChandraShekharSaini /ChandraShekharSaini /output/snake.svg" alt="Snake animation" />
 ![Snake animation](https://raw.githubusercontent.com/ChandraShekharSaini/ChandraShekharSaini/output/snake.svg)
+
+
 
 ###
 
