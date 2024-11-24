@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" weight="500" src="https://github.com/ChandraShekharSaini/ChandraShekharSaini/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif?raw=true"  />
+  <img height="300" weight="500" src="https://github.com/ChandraShekharSaini/ChandraShekharSaini/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif?raw=true"  />
 </div>
 
 ###
