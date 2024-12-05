@@ -117,7 +117,7 @@
 <details>
   <summary><b>⚡ Github Stats</b></summary>
  <a href="https://github.com/ChandraShekharSaini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exclusiveideas&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandraShekharSaini&hide=contribs,prs&show_icons=true&theme=tokyonight" />
 </a> 
 </details>
 
