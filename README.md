@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🌱 Currently Learning: React, Node.js, Express<br><br>💬 Ask Me About: JavaScript, React, Node.js, Express</p>
+<p align="left">🌱 Currently Learning: TypeScript React, Node.js, Express<br><br>💬 Ask Me About: JavaScript, React, Node.js, Express</p>
 
 ###
 
