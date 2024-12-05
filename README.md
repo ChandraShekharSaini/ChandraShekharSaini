@@ -136,6 +136,9 @@
 </a>
 </details>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekharSaini&langs_count=8)
+
 <!-- <details>
   <summary><b>📈 Trophy Stats</b></summary>
 <a href="https://github.com/Exclusiveideas">
