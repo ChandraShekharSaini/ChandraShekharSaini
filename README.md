@@ -32,9 +32,6 @@
 
 ###
 
-<p align="left">🌱 Currently Learning: TypeScript, React, Node.js, Express<br><br>💬 Ask Me About: JavaScript, React, Node.js, Express</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
