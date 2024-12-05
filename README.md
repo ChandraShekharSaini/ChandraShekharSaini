@@ -42,8 +42,8 @@
 - 🌱 I’m currently working on **[Video-Compressing-APi]()**
 <br />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/@muftaujimoh01) 
-[![Linkedin](https://www.linkedin.com/in/chandra-shekhar-saini-772b53249/)](https://www.linkedin.com/in/muftau) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/muftaujimoh01?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://x.com/saini_shek33762) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekhar-saini-772b53249/) 
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=WebMoney&logoColor=white)](https://exclusiveideas.vercel.app) 
 [![Resume](https://camo.githubusercontent.com/1703529ec72a87cde0bb2cd12c4c6ecf9d939483be1faba6a31629e1e4d6e51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465)](https://firebasestorage.googleapis.com/v0/b/exclusiveideas-c9470.appspot.com/o/gitHub_pictures%2FFullstack_resume.pdf?alt=media&token=d8c28e44-1398-49c7-9456-b0dc9d2bfaea) -->
 
