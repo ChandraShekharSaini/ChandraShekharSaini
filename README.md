@@ -129,6 +129,13 @@
 </a>  
 </details>
 
+<details>
+  <summary><b>📈 Wakatime Report</b></summary>
+<a href="https://github.com/ChandraShekharSaini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraShekharSaini&theme=tokyonight&layout=compact" />
+</a>
+</details>
+
 <!-- <details>
   <summary><b>📈 Trophy Stats</b></summary>
 <a href="https://github.com/Exclusiveideas">
