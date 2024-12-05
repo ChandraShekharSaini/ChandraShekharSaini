@@ -33,11 +33,7 @@
 ###
 
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-# Hi there! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" /> I'm Muftaudeen Jimoh
+# Hi there! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" height="40" /> I'm Chandra Shekhar Saini
  A full-stack Programmer who enjoys creating things that live on the internet. I look for creative ways to push the boundaries of a website's front-end and back-end code without compromising on the browser's ***support, and the security and performance,*** of the application and I focus on building **accessible**, **inclusive applications** and **digital experience** for a variety of clients. 
 
 
