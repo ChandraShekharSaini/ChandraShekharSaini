@@ -125,7 +125,7 @@
   <summary><b>👨‍💻 Top languages</b></summary>
   <p>Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.</p>
 <a href="https://github.com/ChandraShekharSaini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exclusiveideas&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekharSaini&layout=compact&theme=tokyonight" />
 </a>  
 </details>
 
@@ -146,8 +146,8 @@
  
 <details>
   <summary><b>📈 Wakatime Report</b></summary>
-<a href="https://github.com/Exclusiveideas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muftau&theme=tokyonight&layout=compact" />
+<a href="https://github.com/ChandraShekharSaini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraShekharSaini&theme=tokyonight&layout=compact" />
 </a>
 </details>
 
