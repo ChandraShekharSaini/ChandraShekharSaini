@@ -110,7 +110,7 @@
 <details>
   <summary><b>🚀 Github Summary</b></summary>
 <a href="https://github.com/ChandraShekharSaini">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exclusiveideas&theme=tokyonight" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChandraShekharSaini&theme=tokyonight" />
 </a>
 </details>
 
