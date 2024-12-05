@@ -136,8 +136,8 @@
 </a>
 </details>
 
-https://wakatime.com/badge/user/600e0629-9ba7-4065-98a0-5ec1a0e1daa7.svg
-    :target: https://wakatime.com/@600e0629-9ba7-4065-98a0-5ec1a0e1daa7
+<img src="https://wakatime.com/badge/user/600e0629-9ba7-4065-98a0-5ec1a0e1daa7.svg" />
+
 
 
 <!-- <details>
