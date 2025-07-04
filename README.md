@@ -39,7 +39,7 @@
 
 
 <!-- - 🔭 I’m currently working on **[Dee-M](https://github.com/Exclusiveideas/Dee-M)** -->
-- 🌱 I’m currently working on **[Video-Compressing-APi](https://github.com/ChandraShekharSaini/VidTrim.git)**
+- 🌱 I’m currently working on **[Video-Compressing](https://github.com/ChandraShekharSaini/VidTrim.git)**
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saini_shek33762?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://x.com/saini_shek33762) 
